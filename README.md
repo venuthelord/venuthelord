@@ -1,3 +1,6 @@
+
+![github-header-image](https://github.com/venuthelord/venuthelord/assets/155384797/4212b16b-4ced-4f63-a1f4-7e9181757a5b)
+
 <h1 align="center">Hi 👋, I'm Venuja Mahalla</h1>
 <h3 align="center">A passionate Web developer from Sri Lanka</h3>
 <img align="center" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
