@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vmahalla" target="blank"><img src="https://img.shields.io/twitter/follow/vmahalla?logo=twitter&style=for-the-badge" alt="vmahalla" /></a> </p>
 
-- 🌱 I’m currently learning **CS50 course**
+- 🌱 I’m currently learning **CS50 COURSE and CS105 COURSE**
 
 - 🤝 I’m looking for help with **Python, MYSQL**
 
